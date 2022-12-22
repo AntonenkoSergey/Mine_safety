@@ -96,7 +96,8 @@ public class ActivityTest extends AppCompatActivity {
         outState.putInt(KEY_C_QUESTION, c_question);
         outState.putInt(KEY_COUNT_RIGHT, count_right);
         outState.putLong(KEY_COUNT_TIME, count_time);
-        outState.putString(KEY_CHECKED_RADIO, ((RadioButton)findViewById(binding.radioGroup.getCheckedRadioButtonId())).getText().toString());
+        RadioButton radioButton = (RadioButton) findViewById(binding.radioGroup.getCheckedRadioButtonId());
+        outState.putString(KEY_CHECKED_RADIO, (radioButton!=null)?radioButton.getText().toString():"UNKNOWN");
     }
 
     private long lastAns = 0;
