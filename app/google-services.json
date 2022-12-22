@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64153703592",
+    "firebase_url": "https://minesafety-17d18-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "minesafety-17d18",
+    "storage_bucket": "minesafety-17d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64153703592:android:482ac0a0a6fee4bd6c5e9d",
+        "android_client_info": {
+          "package_name": "com.antonenko.mine_safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64153703592-sg9lf26jlqjv25l1hd61nbsbliucarhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDGXerAM5Puutofnrpl3o7jqbNCZzM7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64153703592-sg9lf26jlqjv25l1hd61nbsbliucarhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

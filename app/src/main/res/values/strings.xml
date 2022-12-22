@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Мінна безпека</string>
+    <string name="title">Програма для тестування знань з мінної безпеки</string>
+    <string name="pib">ПІБ користувача</string>
+    <string name="start">почати тестування</string>
+    <string name="title_activity_test">Test</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_next">Далі</string>
+    <string name="test_finished_users">Здали тест:</string>
+    <string name="text_add">Додати</string>
+    <string name="text_edit">Редагувати</string>
+    <string name="text_logout">Вийти з акаунта</string>
+    <string name="test_end">Завершити тест</string>
+    <string name="ChoseAnswer">Оберіть варіант відповіді!</string>
+    <string name="countRight">"Кількість вірних відповідей: "</string>
+    <string name="countWrong">"Кількість невірних відповідей: "</string>
+    <string name="countAll">"Загальна кількість питань: "</string>
+    <string name="countTime">"Час тестування: "</string>
+    <string name="PIB">"ПІБ: "</string>
+    <string name="test_result">Результат тестування</string>
+    <string name="text_testing">Тестування</string>
+    <string name="text_auth">Авторизація</string>
+    <string name="error_password">Пароль не вірний!</string>
+    <string name="exit_message">Натисніть ще раз для виходу!</string>
+    <string name="yes">Так</string>
+    <string name="delete_question_ask">Ви впевнені що бажаєте видалити питання?</string>
+    <string name="text_delete">Видалення</string>
+    <string name="no">Ні</string>
+    <string name="error_PIB">Введіть ПІБ!</string>
+    <string name="text_tests">Тести</string>
+    <string name="text_test">Тест</string>
+    <string name="text_test_submit_success">Тест здано успішно!</string>
+    <string name="ok">ОК</string>
+    <string name="text_add_new_question">Додавання нового запитання</string>
+    <string name="text_error">Помилка!</string>
+    <string name="text_complete">Виконано!</string>
+    <string name="text_testresult">Результати тестування</string>
+    <string name="text_test_not_ready">Тест поки не готовий</string>
+    <string name="text_edit_q">Редагування запитання</string>
+</resources>
